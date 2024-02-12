@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2bfbed166caad594bae780267605aa2d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Robot Crush
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0e42f6e2b49e364a9f5daec8c9259ac, type: 3}
+  - {fileID: 12800000, guid: 05fd7b38630f86e49ac8133827ad4118, type: 3}
+  - {fileID: 12800000, guid: 43cb9d8fb63ca364893ea18fcf61cd61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
